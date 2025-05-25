@@ -2,6 +2,15 @@
 frontend/node_modules/
 frontend/build/
 frontend/.env
+frontend/node_modules
+frontend/.pnp
+.pnp.js
+
+# testing
+frontend/coverage
+
+# production
+frontend/build
 
 # Para Python / Flask (backend)
 backend/__pycache__/
@@ -12,4 +21,12 @@ backend/.env
 # Puedes agregar archivos o carpetas comunes
 .DS_Store
 *.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
