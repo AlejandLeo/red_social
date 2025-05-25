@@ -1,0 +1,15 @@
+# Para Node.js / React (frontend)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Para Python / Flask (backend)
+backend/__pycache__/
+backend/*.pyc
+backend/instance/
+backend/.env
+
+# Puedes agregar archivos o carpetas comunes
+.DS_Store
+*.log
+

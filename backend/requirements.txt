@@ -1,0 +1,7 @@
+flask
+neo4j
+redis
+pyjwt
+werkzeug
+python-dotenv
+flask-cors
